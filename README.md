@@ -3,6 +3,7 @@ It's a game where you play as a cube and you can roll in 4 directions, <br>
 You should roll to the spawining splatforms before the platform under you is gone. <br>
 
 [Dino Showcase Project Preview](https://dino-showcase-r3f.vercel.app/) <br>
+[Dino Showcase Project Preview](dino-showcase.netlify.app) <br>
 [Dino Showcase Project Codesandbox](https://codesandbox.io/s/github/Xahri/DinoShowcase-R3F/tree/master/)
 <br>
 
